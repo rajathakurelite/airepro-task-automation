@@ -1,3 +1,7 @@
+"""
+Airepro — Autonomous AI Engineering Pipeline.
+Runs a 10-agent CrewAI crew from product idea to MVP roadmap.
+"""
 from crewai import Crew
 from agents import *
 from tasks import *
